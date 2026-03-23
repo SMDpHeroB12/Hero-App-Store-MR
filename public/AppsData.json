@@ -1,0 +1,992 @@
+[
+  {
+    "image": "https://img.icons8.com/color/256/000000/whatsapp.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "WhatsApp Messenger by Meta Platforms, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind WhatsApp Messenger have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, WhatsApp Messenger fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. WhatsApp Messenger remains one of the most beloved apps in its category, reflecting the dedication and innovation of Meta Platforms, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 150,
+    "reviews": 185000000,
+    "ratingAvg": 4.3,
+    "downloads": 7400000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8000000
+      },
+      {
+        "name": "2 star",
+        "count": 6000000
+      },
+      {
+        "name": "3 star",
+        "count": 15000000
+      },
+      {
+        "name": "4 star",
+        "count": 36000000
+      },
+      {
+        "name": "5 star",
+        "count": 120000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 2,
+    "description": "TikTok by ByteDance Ltd. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind TikTok have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, TikTok fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. TikTok remains one of the most beloved apps in its category, reflecting the dedication and innovation of ByteDance Ltd. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 350,
+    "reviews": 140000000,
+    "ratingAvg": 4.5,
+    "downloads": 6900000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000000
+      },
+      {
+        "name": "2 star",
+        "count": 4000000
+      },
+      {
+        "name": "3 star",
+        "count": 12000000
+      },
+      {
+        "name": "4 star",
+        "count": 29000000
+      },
+      {
+        "name": "5 star",
+        "count": 90000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Facebook by Meta Platforms, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Facebook have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Facebook fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Facebook remains one of the most beloved apps in its category, reflecting the dedication and innovation of Meta Platforms, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 200,
+    "reviews": 135000000,
+    "ratingAvg": 4.1,
+    "downloads": 6900000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10000000
+      },
+      {
+        "name": "2 star",
+        "count": 7000000
+      },
+      {
+        "name": "3 star",
+        "count": 18000000
+      },
+      {
+        "name": "4 star",
+        "count": 35000000
+      },
+      {
+        "name": "5 star",
+        "count": 65000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/instagram-new.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 4,
+    "description": "Instagram by Meta Platforms, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Instagram have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Instagram fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Instagram remains one of the most beloved apps in its category, reflecting the dedication and innovation of Meta Platforms, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 220,
+    "reviews": 110000000,
+    "ratingAvg": 4.2,
+    "downloads": 6000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 7000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 14000000
+      },
+      {
+        "name": "4 star",
+        "count": 29000000
+      },
+      {
+        "name": "5 star",
+        "count": 55000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 5,
+    "description": "Snapchat by Snap Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Snapchat have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Snapchat fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Snapchat remains one of the most beloved apps in its category, reflecting the dedication and innovation of Snap Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 180,
+    "reviews": 32000000,
+    "ratingAvg": 4.0,
+    "downloads": 3200000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000000
+      },
+      {
+        "name": "2 star",
+        "count": 1500000
+      },
+      {
+        "name": "3 star",
+        "count": 5500000
+      },
+      {
+        "name": "4 star",
+        "count": 9000000
+      },
+      {
+        "name": "5 star",
+        "count": 14000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube by Google LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind YouTube have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, YouTube fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. YouTube remains one of the most beloved apps in its category, reflecting the dedication and innovation of Google LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 160,
+    "reviews": 125000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 4500000
+      },
+      {
+        "name": "3 star",
+        "count": 13000000
+      },
+      {
+        "name": "4 star",
+        "count": 29500000
+      },
+      {
+        "name": "5 star",
+        "count": 76000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/spotify.png",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 7,
+    "description": "Spotify: Music and Podcasts by Spotify AB is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Spotify: Music and Podcasts have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Spotify: Music and Podcasts fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Spotify: Music and Podcasts remains one of the most beloved apps in its category, reflecting the dedication and innovation of Spotify AB to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 110,
+    "reviews": 40000000,
+    "ratingAvg": 4.6,
+    "downloads": 2100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 10000000
+      },
+      {
+        "name": "5 star",
+        "count": 24000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/telegram-app.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "id": 8,
+    "description": "Telegram by Telegram FZ LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Telegram have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Telegram fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Telegram remains one of the most beloved apps in its category, reflecting the dedication and innovation of Telegram FZ LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 90,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 2500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1600000
+      },
+      {
+        "name": "4 star",
+        "count": 3500000
+      },
+      {
+        "name": "5 star",
+        "count": 9000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0jR1RCBp/CapCut.png",
+    "title": "CapCut - Video Editor",
+    "companyName": "ByteDance Ltd.",
+    "id": 9,
+    "description": "CapCut - Video Editor by ByteDance Ltd. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind CapCut - Video Editor have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, CapCut - Video Editor fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. CapCut - Video Editor remains one of the most beloved apps in its category, reflecting the dedication and innovation of ByteDance Ltd. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 280,
+    "reviews": 18000000,
+    "ratingAvg": 4.4,
+    "downloads": 2500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 500000
+      },
+      {
+        "name": "3 star",
+        "count": 1900000
+      },
+      {
+        "name": "4 star",
+        "count": 4500000
+      },
+      {
+        "name": "5 star",
+        "count": 10500000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Netflix by Netflix, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Netflix have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Netflix fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Netflix remains one of the most beloved apps in its category, reflecting the dedication and innovation of Netflix, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 120,
+    "reviews": 65000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2500000
+      },
+      {
+        "name": "2 star",
+        "count": 2000000
+      },
+      {
+        "name": "3 star",
+        "count": 6000000
+      },
+      {
+        "name": "4 star",
+        "count": 15000000
+      },
+      {
+        "name": "5 star",
+        "count": 39500000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 11,
+    "description": "Amazon Shopping by Amazon Mobile LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Amazon Shopping have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Amazon Shopping fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Amazon Shopping remains one of the most beloved apps in its category, reflecting the dedication and innovation of Amazon Mobile LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 170,
+    "reviews": 85000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000000
+      },
+      {
+        "name": "2 star",
+        "count": 2500000
+      },
+      {
+        "name": "3 star",
+        "count": 7500000
+      },
+      {
+        "name": "4 star",
+        "count": 20000000
+      },
+      {
+        "name": "5 star",
+        "count": 52000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 12,
+    "description": "Pinterest by Pinterest, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Pinterest have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Pinterest fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Pinterest remains one of the most beloved apps in its category, reflecting the dedication and innovation of Pinterest, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 100,
+    "reviews": 30000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000000
+      },
+      {
+        "name": "2 star",
+        "count": 800000
+      },
+      {
+        "name": "3 star",
+        "count": 3200000
+      },
+      {
+        "name": "4 star",
+        "count": 7000000
+      },
+      {
+        "name": "5 star",
+        "count": 18000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/twitter.png",
+    "title": "X (formerly Twitter)",
+    "companyName": "X Corp.",
+    "id": 13,
+    "description": "X (formerly Twitter) by X Corp. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind X (formerly Twitter) have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, X (formerly Twitter) fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. X (formerly Twitter) remains one of the most beloved apps in its category, reflecting the dedication and innovation of X Corp. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 140,
+    "reviews": 55000000,
+    "ratingAvg": 3.9,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000000
+      },
+      {
+        "name": "2 star",
+        "count": 4000000
+      },
+      {
+        "name": "3 star",
+        "count": 10000000
+      },
+      {
+        "name": "4 star",
+        "count": 16000000
+      },
+      {
+        "name": "5 star",
+        "count": 20000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/zoom.png",
+    "title": "Zoom - One Platform to Connect",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 14,
+    "description": "Zoom - One Platform to Connect by Zoom Video Communications, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Zoom - One Platform to Connect have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Zoom - One Platform to Connect fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Zoom - One Platform to Connect remains one of the most beloved apps in its category, reflecting the dedication and innovation of Zoom Video Communications, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 130,
+    "reviews": 22000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 6000000
+      },
+      {
+        "name": "5 star",
+        "count": 10000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PvNXd5G3/duolingo.png",
+    "title": "Duolingo: Learn Languages",
+    "companyName": "Duolingo",
+    "id": 15,
+    "description": "Duolingo: Learn Languages by Duolingo is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Duolingo: Learn Languages have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Duolingo: Learn Languages fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Duolingo: Learn Languages remains one of the most beloved apps in its category, reflecting the dedication and innovation of Duolingo to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 85,
+    "reviews": 15000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 1800000
+      },
+      {
+        "name": "4 star",
+        "count": 4500000
+      },
+      {
+        "name": "5 star",
+        "count": 8000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/roblox.png",
+    "title": "Roblox",
+    "companyName": "Roblox Corporation",
+    "id": 16,
+    "description": "Roblox by Roblox Corporation is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Roblox have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Roblox fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Roblox remains one of the most beloved apps in its category, reflecting the dedication and innovation of Roblox Corporation to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 190,
+    "reviews": 40000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 10000000
+      },
+      {
+        "name": "5 star",
+        "count": 24000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/subway-surfers.png",
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "id": 17,
+    "description": "Subway Surfers by SYBO Games is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Subway Surfers have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Subway Surfers fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Subway Surfers remains one of the most beloved apps in its category, reflecting the dedication and innovation of SYBO Games to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 120,
+    "reviews": 45000000,
+    "ratingAvg": 4.4,
+    "downloads": 2100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1800000
+      },
+      {
+        "name": "2 star",
+        "count": 1200000
+      },
+      {
+        "name": "3 star",
+        "count": 5000000
+      },
+      {
+        "name": "4 star",
+        "count": 11000000
+      },
+      {
+        "name": "5 star",
+        "count": 26000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Google Maps by Google LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Google Maps have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Google Maps fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Google Maps remains one of the most beloved apps in its category, reflecting the dedication and innovation of Google LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 115,
+    "reviews": 160000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8000000
+      },
+      {
+        "name": "2 star",
+        "count": 6000000
+      },
+      {
+        "name": "3 star",
+        "count": 17000000
+      },
+      {
+        "name": "4 star",
+        "count": 38000000
+      },
+      {
+        "name": "5 star",
+        "count": 91000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xKtSbLMF/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 19,
+    "description": "Uber by Uber Technologies, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Uber have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Uber fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Uber remains one of the most beloved apps in its category, reflecting the dedication and innovation of Uber Technologies, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 95,
+    "reviews": 18000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1600000
+      },
+      {
+        "name": "4 star",
+        "count": 4500000
+      },
+      {
+        "name": "5 star",
+        "count": 11000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/GQgt3KNT/Candy-Crush-Saga.png",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 20,
+    "description": "Candy Crush Saga by King is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Candy Crush Saga have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Candy Crush Saga fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Candy Crush Saga remains one of the most beloved apps in its category, reflecting the dedication and innovation of King to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 90,
+    "reviews": 38000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 800000
+      },
+      {
+        "name": "3 star",
+        "count": 3000000
+      },
+      {
+        "name": "4 star",
+        "count": 8000000
+      },
+      {
+        "name": "5 star",
+        "count": 25000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-translate.png",
+    "title": "Google Translate",
+    "companyName": "Google LLC",
+    "id": 21,
+    "description": "Google Translate by Google LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Google Translate have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Google Translate fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Google Translate remains one of the most beloved apps in its category, reflecting the dedication and innovation of Google LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 80,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 1300000
+      },
+      {
+        "name": "4 star",
+        "count": 3000000
+      },
+      {
+        "name": "5 star",
+        "count": 7000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/microsoft-word.png",
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "id": 22,
+    "description": "Microsoft Word by Microsoft Corporation is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Microsoft Word have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Microsoft Word fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Microsoft Word remains one of the most beloved apps in its category, reflecting the dedication and innovation of Microsoft Corporation to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 150,
+    "reviews": 11000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 1000000
+      },
+      {
+        "name": "4 star",
+        "count": 3500000
+      },
+      {
+        "name": "5 star",
+        "count": 6000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/gmail.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 23,
+    "description": "Gmail by Google LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Gmail have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Gmail fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Gmail remains one of the most beloved apps in its category, reflecting the dedication and innovation of Google LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 75,
+    "reviews": 150000000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 7000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 15000000
+      },
+      {
+        "name": "4 star",
+        "count": 35000000
+      },
+      {
+        "name": "5 star",
+        "count": 88000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/tinder.png",
+    "title": "Tinder",
+    "companyName": "Tinder",
+    "id": 24,
+    "description": "Tinder by Tinder is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Tinder have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Tinder fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Tinder remains one of the most beloved apps in its category, reflecting the dedication and innovation of Tinder to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 105,
+    "reviews": 16000000,
+    "ratingAvg": 3.8,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000000
+      },
+      {
+        "name": "2 star",
+        "count": 1500000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 4000000
+      },
+      {
+        "name": "5 star",
+        "count": 4000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/canva.png",
+    "title": "Canva: Design, Photo & Video",
+    "companyName": "Canva",
+    "id": 25,
+    "description": "Canva: Design, Photo & Video by Canva is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Canva: Design, Photo & Video have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Canva: Design, Photo & Video fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Canva: Design, Photo & Video remains one of the most beloved apps in its category, reflecting the dedication and innovation of Canva to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 190,
+    "reviews": 10000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 1000000
+      },
+      {
+        "name": "4 star",
+        "count": 3500000
+      },
+      {
+        "name": "5 star",
+        "count": 5000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FLzh6ChJ/Clash-of-Clans.png",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 26,
+    "description": "Clash of Clans by Supercell is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Clash of Clans have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Clash of Clans fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Clash of Clans remains one of the most beloved apps in its category, reflecting the dedication and innovation of Supercell to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 250,
+    "reviews": 55000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000000
+      },
+      {
+        "name": "2 star",
+        "count": 1500000
+      },
+      {
+        "name": "3 star",
+        "count": 5500000
+      },
+      {
+        "name": "4 star",
+        "count": 13000000
+      },
+      {
+        "name": "5 star",
+        "count": 33000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Sws7bwr0/Google-Chrome.png",
+    "title": "Google Chrome: Fast & Secure",
+    "companyName": "Google LLC",
+    "id": 27,
+    "description": "Google Chrome: Fast & Secure by Google LLC is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Google Chrome: Fast & Secure have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Google Chrome: Fast & Secure fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Google Chrome: Fast & Secure remains one of the most beloved apps in its category, reflecting the dedication and innovation of Google LLC to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 130,
+    "reviews": 160000000,
+    "ratingAvg": 4.1,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9000000
+      },
+      {
+        "name": "2 star",
+        "count": 7000000
+      },
+      {
+        "name": "3 star",
+        "count": 18000000
+      },
+      {
+        "name": "4 star",
+        "count": 36000000
+      },
+      {
+        "name": "5 star",
+        "count": 90000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/shazam.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 28,
+    "description": "Shazam by Apple Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Shazam have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Shazam fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Shazam remains one of the most beloved apps in its category, reflecting the dedication and innovation of Apple Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 50,
+    "reviews": 11000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 950000
+      },
+      {
+        "name": "4 star",
+        "count": 2700000
+      },
+      {
+        "name": "5 star",
+        "count": 7000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/waze.png",
+    "title": "Waze Navigation & Live Traffic",
+    "companyName": "Waze",
+    "id": 29,
+    "description": "Waze Navigation & Live Traffic by Waze is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Waze Navigation & Live Traffic have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Waze Navigation & Live Traffic fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Waze Navigation & Live Traffic remains one of the most beloved apps in its category, reflecting the dedication and innovation of Waze to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 160,
+    "reviews": 14000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 1300000
+      },
+      {
+        "name": "4 star",
+        "count": 3500000
+      },
+      {
+        "name": "5 star",
+        "count": 8500000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/pokeball.png",
+    "title": "Pokémon GO",
+    "companyName": "Niantic, Inc.",
+    "id": 30,
+    "description": "Pokémon GO by Niantic, Inc. is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\n The developers behind Pokémon GO have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Pokémon GO fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Pokémon GO remains one of the most beloved apps in its category, reflecting the dedication and innovation of Niantic, Inc. to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 210,
+    "reviews": 25000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 3000000
+      },
+      {
+        "name": "4 star",
+        "count": 7000000
+      },
+      {
+        "name": "5 star",
+        "count": 12500000
+      }
+    ]
+  }
+]
