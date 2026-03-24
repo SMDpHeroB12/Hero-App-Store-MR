@@ -42,17 +42,17 @@ const Banner = () => {
             Trusted by Millions, Built for You
           </h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-            <div className="space-y-4 border-b-1 border-[#ffffff50] pb-3 sm:border-0">
+            <div className="space-y-4 border-b border-[#ffffff50] pb-3 sm:border-0">
               <p>Total Downloads</p>
               <h1 className="font-extrabold text-6xl">29.6M</h1>
               <p>21% more than last month</p>
             </div>
-            <div className="space-y-4 border-b-1 border-[#ffffff50] pb-3 sm:border-0">
+            <div className="space-y-4 border-b border-[#ffffff50] pb-3 sm:border-0">
               <p>Total Reviews</p>
               <h1 className="font-extrabold text-6xl">906K</h1>
               <p>46% more than last month</p>
             </div>
-            <div className="space-y-4 border-b-1 border-[#ffffff50] pb-3 sm:border-0 sm:col-span-2 md:col-span-1">
+            <div className="space-y-4 border-b border-[#ffffff50] pb-3 sm:border-0 sm:col-span-2 md:col-span-1">
               <p>Active Apps</p>
               <h1 className="font-extrabold text-6xl">132+</h1>
               <p>31 more will Launch</p>

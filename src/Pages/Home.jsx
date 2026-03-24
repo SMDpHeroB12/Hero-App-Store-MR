@@ -26,7 +26,7 @@ const Home = () => {
             {trendingApps.map((app) => (
               <div
                 key={app.id}
-                className="border-1 border-[#ffffffa5] bg-white rounded-md p-5"
+                className="border border-[#ffffffa5] bg-white rounded-md p-5"
               >
                 <AppCard app={app} />
               </div>
@@ -37,7 +37,7 @@ const Home = () => {
       <div className="flex justify-center pb-10">
         <Link
           to="/apps"
-          className="btn w-40 bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-[#fff]"
+          className="btn w-40 bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white"
         >
           <span>Show All</span>
         </Link>
