@@ -1,12 +1,13 @@
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
+import { Outlet } from "react-router";
 
 const MainLayout = () => {
   return (
     <div>
       <Navbar />
-      <main className="flex h-screen justify-center">
-        <h1 className="text-3xl font-bold mt-10">Vite + React</h1>
+      <main className="">
+        <Outlet />
       </main>
       <Footer />
     </div>

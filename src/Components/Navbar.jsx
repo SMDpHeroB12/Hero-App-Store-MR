@@ -5,7 +5,7 @@ import { Link, NavLink } from "react-router";
 const Navbar = () => {
   return (
     <header className="shadow-md sticky top-0 z-10 bg-base-100">
-      <nav className="navbar bg-base-100 sm:w-11/12 mx-auto ">
+      <nav className="navbar bg-base-100 lg:w-11/12 mx-auto ">
         <div className="navbar-start w-full sm:w-[50%]">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -13,7 +13,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-60 p-2 shadow"
             >
               <li>
                 <NavLink to="/">Home</NavLink>
@@ -54,7 +54,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <div className="sm:navbar-end hidden sm:flex">
+        <div className="sm:navbar-end hidden lg:flex">
           <Link
             to="https://github.com/SMDpHeroB12"
             target="_blank"
