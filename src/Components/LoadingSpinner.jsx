@@ -1,5 +1,3 @@
-import React from "react";
-
 const LoadingSpinner = ({ count = 8 }) => {
   return (
     <div className="w-11/12 mx-auto pt-10">

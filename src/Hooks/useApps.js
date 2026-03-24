@@ -8,12 +8,26 @@ const useApps = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios("../AppsData.json")
-      .then((data) => setApps(data.data))
-      .catch((err) => setError(err))
-      .finally(() => setLoading(false));
+
+    const fetchApps = async () => {
+      try {
+        const res = await axios("/AppsData.json");
+
+        // ⏳ 3 seconds delay
+        await new Promise((resolve) => setTimeout(resolve, 3000));
+
+        setApps(res.data);
+      } catch (err) {
+        setError(err);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchApps();
   }, []);
 
   return { apps, loading, error };
 };
+
 export default useApps;

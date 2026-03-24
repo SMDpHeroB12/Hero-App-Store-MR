@@ -4,6 +4,7 @@ import MainLayout from "../Layouts/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
 import FallbackSpinner from "../Components/FallbackSpinner";
 import Home from "../Pages/Home";
+import Apps from "../Pages/Apps";
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,10 @@ const router = createBrowserRouter([
         index: true,
         element: <Home />,
         loader: () => fetch("/AppsData.json"),
+      },
+      {
+        path: "/apps",
+        element: <Apps />,
       },
     ],
   },
