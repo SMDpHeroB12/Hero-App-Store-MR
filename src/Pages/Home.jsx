@@ -10,7 +10,7 @@ const Home = () => {
   const trendingApps = apps.slice(0, 8);
 
   return (
-    <div className="">
+    <div className="bg-[#f5f5f5]">
       <Banner />
       <div className="text-center">
         <h1 className="text-3xl sm:text-5xl font-bold"> Trending Apps</h1>
@@ -18,15 +18,15 @@ const Home = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="w-11/12 mx-auto text-center pb-10">
+      <div className="w-11/12 mx-auto text-center pb-10 ">
         {loading ? (
           <LoadingSpinner count="8" />
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 ">
             {trendingApps.map((app) => (
               <div
                 key={app.id}
-                className="border border-[#ffffffa5] bg-white rounded-md p-5"
+                className="border border-[#ffffffa5] hover:scale-102 transition bg-white rounded-md p-5"
               >
                 <AppCard app={app} />
               </div>

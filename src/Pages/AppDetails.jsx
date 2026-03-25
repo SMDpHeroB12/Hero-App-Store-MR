@@ -66,7 +66,7 @@ const AppDetails = () => {
     <div className="sm:w-11/12 mx-auto ">
       <div className="card mt-20 flex flex-col sm:flex-row ">
         <figure className="sm:bg-blue-100 sm:h-80 sm:w-96 sm:m-5 rounded-xl overflow-hidden transition ease-in-out sm:border border-[#0000001f]">
-          <img className="w-full object-contain" src={image} alt="AppIcon" />
+          <img className="h-full object-contain" src={image} alt="AppIcon" />
         </figure>
 
         <div className="sm:w-full mb-10 space-y-4 p-8 border border-[#0000001f]">
@@ -75,23 +75,25 @@ const AppDetails = () => {
             Developed by <span className="font-semibold">{companyName}</span>
           </p>
 
-          <div className="grid md:grid-cols-3 h-screen md:h-25 lg:w-[70%]">
-            <div className="text-[#00D390] flex flex-col gap-2 justify-center items-center">
+          <div className="grid grid-cols-3 md:h-25 lg:w-[70%] gap-2 sm:mb-15">
+            <div className="text-[#00D390] flex flex-col gap-2 justify-center items-center border rounded-md  ">
               <FaDownload className="w-20 h-10" />
-              <p className="text-black">Downloads</p>
-              <span className="font-bold text-3xl text-black">
+              <p className="text-black text-center">Downloads</p>
+              <span className="font-bold text-xl md:text-2xl text-black">
                 {formatNumber(downloads)}
               </span>
             </div>
-            <div className="text-[#ffd000] flex flex-col gap-2 justify-center items-center">
+            <div className="text-[#ffd000] flex flex-col gap-2 justify-center items-center border rounded-md ">
               <FaStar className="w-20 h-10" />
-              <p className="text-black ">Average Ratings</p>
-              <span className="font-bold text-3xl text-black">{ratingAvg}</span>
+              <p className="text-black text-center">Average Ratings</p>
+              <span className="font-bold text-xl md:text-2xl text-black">
+                {ratingAvg}
+              </span>
             </div>
-            <div className="text-[#632EE3] flex flex-col gap-2 items-center justify-center">
+            <div className="text-[#632EE3] flex flex-col gap-2 items-center justify-center border rounded-md p-3">
               <MdReviews className="w-20 h-10" />
-              <p className="text-text-black">Total Reviews</p>
-              <span className="font-bold text-3xl text-black">
+              <p className="text-black text-center">Total Reviews</p>
+              <span className="font-bold text-xl md:text-2xl text-black">
                 {formatNumber(reviews)}
               </span>
             </div>

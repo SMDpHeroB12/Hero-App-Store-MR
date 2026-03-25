@@ -64,7 +64,7 @@ const Apps = () => {
         </label>
       </div>
 
-      <div className="w-11/12 mx-auto pb-10 text-center">
+      <div className="w-11/12 mx-auto pb-10 text-center ">
         {loading || searchLoading ? (
           <LoadingSpinner count="30" />
         ) : searchedApps.length === 0 ? (
@@ -77,7 +77,7 @@ const Apps = () => {
             {searchedApps.map((app) => (
               <div
                 key={app.id}
-                className="border border-gray-200 bg-white rounded-md p-5 shadow-sm hover:shadow-md transition"
+                className="border border-gray-200 hover:scale-102 transition bg-white rounded-md p-5 shadow-sm hover:shadow-md transition"
               >
                 <AppCard app={app} />
               </div>

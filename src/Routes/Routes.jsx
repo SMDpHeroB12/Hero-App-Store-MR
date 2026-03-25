@@ -6,6 +6,7 @@ import FallbackSpinner from "../Components/FallbackSpinner";
 import Home from "../Pages/Home";
 import Apps from "../Pages/Apps";
 import AppDetails from "../Pages/AppDetails";
+import Installations from "../Pages/Installations";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
       {
         path: "/app/:id",
         element: <AppDetails />,
+      },
+      {
+        path: "/installations",
+        element: <Installations />,
       },
     ],
   },
