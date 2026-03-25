@@ -13,8 +13,8 @@ const useApps = () => {
       try {
         const res = await axios("/AppsData.json");
 
-        // 2 seconds delay
-        await new Promise((resolve) => setTimeout(resolve, 2000));
+        // Manual delay
+        await new Promise((resolve) => setTimeout(resolve, 1000));
 
         setApps(res.data);
       } catch (err) {

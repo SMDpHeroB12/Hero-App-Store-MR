@@ -1,3 +1,5 @@
+import heroLogo from "/logo.png";
+
 const Footer = () => {
   return (
     <footer className=" bg-[#001931]">
@@ -70,7 +72,7 @@ const Footer = () => {
             </a>
           </div>
           <a href="/" className="h-20 pt-4 flex items-center cursor-pointer">
-            <img className="h-full" src="/logo.png" alt="logo" />
+            <img className="h-full" src={heroLogo} alt="Brand Logo or Icon" />
             <h1 className="font-bold">
               HERO <br />
               AppStore
@@ -81,7 +83,6 @@ const Footer = () => {
       <section className="footer sm:footer-horizontal bg-[#001931] text-neutral-content items-center p-4">
         <aside className="flex justify-center items-center w-full ">
           <div className="flex items-center">
-            <img src="../assets/hero.png" alt="" />
             <p className="ml-5">
               Copyright © {new Date().getFullYear()} - All right reserved
             </p>

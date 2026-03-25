@@ -1,5 +1,5 @@
-import { useParams } from "react-router";
-import { useState } from "react";
+import { Link, useParams } from "react-router";
+import { useEffect, useState } from "react";
 import useApps from "../Hooks/useApps";
 import { FaDownload, FaStar } from "react-icons/fa";
 import { MdReviews } from "react-icons/md";
@@ -7,12 +7,41 @@ import formatNumber from "../Utils/Utils";
 import toast from "react-hot-toast";
 import AppDataChart from "../Components/AppDataChart";
 import FallbackSpinner from "../Components/FallbackSpinner";
+import notFound from "../assets/App-Error.png";
 
 const AppDetails = () => {
   const { id } = useParams();
   const { apps, loading } = useApps();
   const app = apps.find((a) => String(a.id) === id);
   const [isInstalled, setIsInstalled] = useState(false);
+
+  useEffect(() => {
+    if (!app) return;
+
+    const existing = JSON.parse(localStorage.getItem("install")) || [];
+    const found = existing.some((a) => a.id === app.id);
+
+    setIsInstalled(found);
+  }, [app]);
+
+  if (!app) {
+    return (
+      <div className=" gap-1 min-h-screen  flex flex-col items-center justify-center">
+        <img src={notFound} alt="Not Found indicator" className="p-10" />
+        <h1 className="text-3xl font-bold text-[#c76b29]">App Not Found</h1>
+        <p className="text-gray-500 my-4 px-10 text-center">
+          The app you are looking for does not exist or has been removed..
+        </p>
+
+        <Link
+          to={"/"}
+          className="rounded-md bg-[#9651ec] px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+        >
+          Go back home
+        </Link>
+      </div>
+    );
+  }
 
   if (loading) return <FallbackSpinner />;
   const {

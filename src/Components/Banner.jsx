@@ -5,7 +5,7 @@ import { Link } from "react-router";
 
 const Banner = () => {
   return (
-    <section className=" mx-auto my-20">
+    <section className=" mx-auto pt-20">
       <div className=" text-center space-y-5">
         <h1 className="font-bold text-4xl sm:text-7xl">
           We Build <br />

@@ -73,11 +73,11 @@ const Apps = () => {
             <h2>No Apps Found</h2>
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {searchedApps.map((app) => (
               <div
                 key={app.id}
-                className="border border-gray-200 hover:scale-102 transition bg-white rounded-md p-5 shadow-sm hover:shadow-md transition"
+                className="border border-gray-200 hover:scale-102 transition bg-white rounded-md p-5 shadow-sm hover:shadow-md"
               >
                 <AppCard app={app} />
               </div>
