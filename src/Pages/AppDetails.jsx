@@ -24,6 +24,8 @@ const AppDetails = () => {
     setIsInstalled(found);
   }, [app]);
 
+  if (loading) return <FallbackSpinner />;
+
   if (!app) {
     return (
       <div className=" gap-1 min-h-screen  flex flex-col items-center justify-center">
@@ -43,7 +45,6 @@ const AppDetails = () => {
     );
   }
 
-  if (loading) return <FallbackSpinner />;
   const {
     title,
     image,

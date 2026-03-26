@@ -693,36 +693,21 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/xqYxh3vn/microsoft-word.png",
-    "title": "Microsoft Word",
-    "companyName": "Microsoft Corporation",
+    "image": "https://img.icons8.com/color/256/000000/figma.png",
+    "title": "Figma",
+    "companyName": "Figma, Inc.",
     "id": 22,
-    "description": "Microsoft Word by Microsoft Corporation is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Microsoft Word have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Microsoft Word fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Microsoft Word remains one of the most beloved apps in its category, reflecting the dedication and innovation of Microsoft Corporation to make digital experiences smarter, smoother, and more meaningful.",
-    "size": 150,
-    "reviews": 11000000,
-    "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "description": "Figma is a collaborative interface design tool used for UI/UX design and prototyping. Figma is a powerful, cloud-based design and collaboration platform that enables teams to create, prototype, and share user interfaces seamlessly. Whether you're a beginner or a professional designer, Figma provides an intuitive and flexible environment for designing websites, mobile apps, and digital products in real time. One of Figma’s standout features is its real-time collaboration. Multiple users can work on the same project simultaneously, making it perfect for teams, classrooms, and remote work environments. Designers, developers, and stakeholders can easily leave comments, give feedback, and make edits without needing to switch tools.\n\nFigma also includes robust design tools such as vector editing, auto layout, components, and reusable styles, helping users maintain consistency and speed up their workflow. Its prototyping feature allows you to create interactive designs with smooth transitions and animations, enabling you to visualize the final product before development begins. Since Figma runs directly in the browser, there is no need for heavy installations or system requirements. Your work is automatically saved in the cloud, ensuring accessibility from any device at any time. Additionally, Figma supports plugins and integrations that extend its functionality, making it even more versatile.\n\nOverall, Figma is an all-in-one solution for modern UI/UX design, combining creativity, efficiency, and collaboration into a single platform.",
+    "size": 110,
+    "reviews": 3000000,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 300000
-      },
-      {
-        "name": "2 star",
-        "count": 200000
-      },
-      {
-        "name": "3 star",
-        "count": 1000000
-      },
-      {
-        "name": "4 star",
-        "count": 3500000
-      },
-      {
-        "name": "5 star",
-        "count": 6000000
-      }
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1690000 }
     ]
   },
   {
@@ -987,6 +972,1281 @@
         "name": "5 star",
         "count": 12500000
       }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 31,
+    "description": "LinkedIn is a professional networking app designed to help users connect, build careers, and explore job opportunities.",
+    "size": 130,
+    "reviews": 9000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4100000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/discord-logo.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 32,
+    "description": "Discord is a voice, video, and text communication app designed for communities and gamers.",
+    "size": 150,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 3050000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/paypal.png",
+    "title": "PayPal",
+    "companyName": "PayPal, Inc.",
+    "id": 33,
+    "description": "PayPal is a secure online payment system used worldwide for transactions and money transfers.",
+    "size": 110,
+    "reviews": 7000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 34,
+    "description": "Airbnb helps users find unique accommodations and travel experiences around the world.",
+    "size": 120,
+    "reviews": 5000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/uber-eats.png",
+    "title": "Uber Eats",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 35,
+    "description": "Uber Eats allows users to order food from restaurants and get it delivered quickly.",
+    "size": 140,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/ebay.png",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "id": 36,
+    "description": "eBay is an online marketplace where users can buy and sell products globally.",
+    "size": 100,
+    "reviews": 6000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2800000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/reddit.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 37,
+    "description": "Reddit is a community-based platform where users share content and discuss various topics.",
+    "size": 90,
+    "reviews": 7000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2600000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-drive.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 38,
+    "description": "Google Drive is a cloud storage service that allows users to store and share files.",
+    "size": 95,
+    "reviews": 10000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-photos.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 39,
+    "description": "Google Photos is a smart photo storage and sharing app with unlimited cloud backup features.",
+    "size": 100,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6600000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/skype.png",
+    "title": "Skype",
+    "companyName": "Microsoft Corporation",
+    "id": 40,
+    "description": "Skype enables voice and video calls, messaging, and communication across the globe.",
+    "size": 120,
+    "reviews": 8000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 2200000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/slack-new.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 41,
+    "description": "Slack is a workplace communication tool that helps teams collaborate efficiently.",
+    "size": 110,
+    "reviews": 5000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2150000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/dropbox.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 42,
+    "description": "Dropbox is a file hosting service that offers cloud storage and file synchronization.",
+    "size": 90,
+    "reviews": 4000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2030000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/trello.png",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 43,
+    "description": "Trello is a project management tool using boards, lists, and cards.",
+    "size": 80,
+    "reviews": 3000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1420000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/notion.png",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 44,
+    "description": "Notion is an all-in-one workspace for notes, tasks, and project management.",
+    "size": 95,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1010000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-evernote-an-online-cloud-based-note-taking-application-logo-shadow-tal-revivo.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 45,
+    "description": "Evernote is a note-taking app that helps users organize ideas and tasks.",
+    "size": 100,
+    "reviews": 3000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1150000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/adobe-lightroom.png",
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe",
+    "id": 46,
+    "description": "Adobe Lightroom is a professional photo editing and management app.",
+    "size": 150,
+    "reviews": 6000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 3350000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/adobe-photoshop.png",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe",
+    "id": 47,
+    "description": "Photoshop Express is a quick and easy photo editing app by Adobe.",
+    "size": 140,
+    "reviews": 4000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 1650000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/256/memrise.png",
+    "title": "Memrise",
+    "companyName": "Memrise",
+    "id": 48,
+    "description": "Memrise is a language learning app with interactive lessons and real-life content.",
+    "size": 90,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1010000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/khan-academy.png",
+    "title": "Khan Academy",
+    "companyName": "Khan Academy",
+    "id": 49,
+    "description": "Khan Academy provides free educational content for students worldwide.",
+    "size": 85,
+    "reviews": 1500000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 950000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/udemy.png",
+    "title": "Udemy",
+    "companyName": "Udemy, Inc.",
+    "id": 50,
+    "description": "Udemy is an online learning platform offering courses on various topics.",
+    "size": 120,
+    "reviews": 4000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 1730000 }
+    ]
+  },
+  {
+    "image": "https://cdn.iconscout.com/icon/free/png-512/free-zomato-logo-icon-svg-download-png-1637644.png?f=webp&w=256",
+    "title": "Zomato",
+    "companyName": "Zomato",
+    "id": 51,
+    "description": "Zomato helps users discover restaurants and order food online.",
+    "size": 110,
+    "reviews": 9000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 3900000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/foodpanda.png",
+    "title": "Foodpanda",
+    "companyName": "Delivery Hero",
+    "id": 52,
+    "description": "Foodpanda delivers food from restaurants to your doorstep quickly.",
+    "size": 115,
+    "reviews": 7000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 2800000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/bubbles/256/flipcart.png",
+    "title": "Flipkart",
+    "companyName": "Flipkart",
+    "id": 53,
+    "description": "Flipkart is one of the largest e-commerce platforms in Asia.",
+    "size": 130,
+    "reviews": 10000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gLPRM99w/alibaba-icon.png",
+    "title": "Alibaba",
+    "companyName": "Alibaba Group",
+    "id": 54,
+    "description": "Alibaba is a global wholesale marketplace connecting buyers and sellers.",
+    "size": 140,
+    "reviews": 6000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2550000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/facebook-messenger--v1.png",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 55,
+    "description": "Messenger allows users to chat, call, and share media instantly.",
+    "size": 150,
+    "reviews": 90000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 49000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-calendar.png",
+    "title": "Google Calendar",
+    "companyName": "Google LLC",
+    "id": 56,
+    "description": "Google Calendar helps users organize schedules and events efficiently.",
+    "size": 85,
+    "reviews": 3000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1420000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/calculator.png",
+    "title": "Calculator",
+    "companyName": "Google LLC",
+    "id": 57,
+    "description": "A simple and efficient calculator app for everyday calculations.",
+    "size": 20,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1110000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/clock.png",
+    "title": "Clock",
+    "companyName": "Google LLC",
+    "id": 58,
+    "description": "Clock app provides alarms, timers, and world clock features.",
+    "size": 25,
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 780000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/google-files.png",
+    "title": "Files by Google",
+    "companyName": "Google LLC",
+    "id": 59,
+    "description": "Files by Google helps manage storage, clean junk, and share files offline.",
+    "size": 30,
+    "reviews": 5000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 3200000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/256/apple-weather.png",
+    "title": "Weather",
+    "companyName": "Google LLC",
+    "id": 60,
+    "description": "Weather app provides real-time forecasts and weather updates.",
+    "size": 20,
+    "reviews": 2000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 910000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/yahoo-mail-app.png",
+    "title": "Yahoo Mail",
+    "companyName": "Yahoo",
+    "id": 61,
+    "description": "Yahoo Mail is a reliable email service with smart organization features.",
+    "size": 95,
+    "reviews": 3000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1150000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/ms-outlook.png",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "id": 62,
+    "description": "Outlook is a powerful email and calendar app for productivity.",
+    "size": 120,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2450000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/viber.png",
+    "title": "Viber",
+    "companyName": "Rakuten",
+    "id": 63,
+    "description": "Viber offers free messaging and calling services worldwide.",
+    "size": 100,
+    "reviews": 4000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/external-those-icons-flat-those-icons/240/external-IMO-Logo-social-media-those-icons-flat-those-icons.png",
+    "title": "IMO",
+    "companyName": "imo.im",
+    "id": 64,
+    "description": "IMO provides instant messaging and video calls with low data usage.",
+    "size": 80,
+    "reviews": 6000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/93Bt9F7C/shareit-icon.png",
+    "title": "SHAREit",
+    "companyName": "Smart Media4U",
+    "id": 65,
+    "description": "SHAREit allows fast file sharing without internet.",
+    "size": 60,
+    "reviews": 7000000,
+    "ratingAvg": 4.0,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/2YgXr0px/Xender.png",
+    "title": "Xender",
+    "companyName": "Xender Team",
+    "id": 66,
+    "description": "Xender is a cross-platform file sharing app with high-speed transfers.",
+    "size": 70,
+    "reviews": 5000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 2200000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/vlc.png",
+    "title": "VLC Media Player",
+    "companyName": "VideoLAN",
+    "id": 67,
+    "description": "VLC is a powerful media player supporting all video formats.",
+    "size": 85,
+    "reviews": 4000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2220000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9k0hwcvv/MX-Player-Logo.png",
+    "title": "MX Player",
+    "companyName": "MX Media",
+    "id": 68,
+    "description": "MX Player is a popular video player with advanced features.",
+    "size": 90,
+    "reviews": 8000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/spotify.png",
+    "title": "SoundCloud",
+    "companyName": "SoundCloud",
+    "id": 69,
+    "description": "SoundCloud is a music streaming platform for creators and listeners.",
+    "size": 100,
+    "reviews": 6000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-play.png",
+    "title": "Google Play Store",
+    "companyName": "Google LLC",
+    "id": 70,
+    "description": "Google Play Store is the official app marketplace for Android devices.",
+    "size": 50,
+    "reviews": 20000000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/apple-app-store.png",
+    "title": "App Store",
+    "companyName": "Apple Inc.",
+    "id": 71,
+    "description": "App Store is Apple's official platform for downloading apps.",
+    "size": 60,
+    "reviews": 10000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4600000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-meet.png",
+    "title": "Google Meet",
+    "companyName": "Google LLC",
+    "id": 72,
+    "description": "Google Meet provides secure video meetings for teams and individuals.",
+    "size": 75,
+    "reviews": 5000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2200000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-duo.png",
+    "title": "Google Duo",
+    "companyName": "Google LLC",
+    "id": 73,
+    "description": "Google Duo offers high-quality video calling features.",
+    "size": 65,
+    "reviews": 4000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 1650000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/line-me.png",
+    "title": "LINE",
+    "companyName": "LINE Corporation",
+    "id": 74,
+    "description": "LINE is a messaging app popular in Asia with stickers and calls.",
+    "size": 110,
+    "reviews": 5000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 2100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fGXyMGPD/wechat-app-icon.png",
+    "title": "WeChat",
+    "companyName": "Tencent",
+    "id": 75,
+    "description": "WeChat combines messaging, social media, and mobile payments.",
+    "size": 130,
+    "reviews": 8000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3400000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/booking.png",
+    "title": "Booking.com",
+    "companyName": "Booking Holdings",
+    "id": 76,
+    "description": "Booking.com helps users book hotels and travel accommodations.",
+    "size": 120,
+    "reviews": 4000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2030000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/tripadvisor.png",
+    "title": "Tripadvisor",
+    "companyName": "Tripadvisor",
+    "id": 77,
+    "description": "Tripadvisor provides reviews and booking for travel experiences.",
+    "size": 110,
+    "reviews": 3000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1520000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/fitbit.png",
+    "title": "Fitbit",
+    "companyName": "Google LLC",
+    "id": 78,
+    "description": "Fitbit tracks fitness, workouts, and health metrics.",
+    "size": 90,
+    "reviews": 2000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 820000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JWT2h3mM/My-fitness-Pal-App-icon.png",
+    "title": "MyFitnessPal",
+    "companyName": "Under Armour",
+    "id": 79,
+    "description": "MyFitnessPal helps track diet, calories, and fitness goals.",
+    "size": 95,
+    "reviews": 3000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1520000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pS3sSFY/Headspace-app-icon.png",
+    "title": "Headspace Meditate Sleep Relax",
+    "companyName": "Headspace Inc.",
+    "id": 80,
+    "description": "Headspace provides guided meditation and mindfulness exercises.",
+    "size": 85,
+    "reviews": 2000000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1210000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5X2XZB7M/Busuu-app-icon.png",
+    "title": "Busuu: Learn & Speak Languages",
+    "companyName": "Busuu Ltd.",
+    "id": 81,
+    "description": "Busuu is a language learning app offering interactive lessons and real-life conversations.",
+    "size": 95,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1010000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/amazon-prime-video.png",
+    "title": "Amazon Prime Video",
+    "companyName": "Amazon",
+    "id": 82,
+    "description": "Prime Video offers streaming movies and exclusive Amazon Originals.",
+    "size": 170,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3750000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/hbo.png",
+    "title": "HBO Max",
+    "companyName": "Warner Bros",
+    "id": 83,
+    "description": "HBO Max offers premium movies, series, and exclusive content.",
+    "size": 160,
+    "reviews": 5000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2350000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/256/disney-plus.png",
+    "title": "Disney+",
+    "companyName": "Disney",
+    "id": 84,
+    "description": "Disney+ streams movies and series from Disney, Marvel, and Star Wars.",
+    "size": 165,
+    "reviews": 7000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3750000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/twitch.png",
+    "title": "Twitch",
+    "companyName": "Amazon",
+    "id": 85,
+    "description": "Twitch is a live streaming platform for gamers and creators.",
+    "size": 140,
+    "reviews": 6000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2450000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/240/external-asana-a-web-and-mobile-application-designed-to-help-teams-organize-track-and-manage-their-work-logo-color-tal-revivo.png",
+    "title": "Asana: Work Management",
+    "companyName": "Asana, Inc.",
+    "id": 86,
+    "description": "Asana is a work management platform designed to help teams organize and track projects.",
+    "size": 120,
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 610000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/256/teamviewer.png",
+    "title": "TeamViewer",
+    "companyName": "TeamViewer AG",
+    "id": 87,
+    "description": "TeamViewer allows remote access and control of devices.",
+    "size": 90,
+    "reviews": 2000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 820000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/240/external-mega-a-cloud-storage-and-file-hosting-service-logo-color-tal-revivo.png",
+    "title": "MEGA",
+    "companyName": "Mega Ltd.",
+    "id": 88,
+    "description": "MEGA provides secure cloud storage with encryption.",
+    "size": 100,
+    "reviews": 3000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1430000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZZPrNXd/WPS-Office.png",
+    "title": "WPS Office",
+    "companyName": "Kingsoft",
+    "id": 89,
+    "description": "WPS Office is a complete office suite for documents and presentations.",
+    "size": 150,
+    "reviews": 7000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3850000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xqYxh3vn/microsoft-word.png",
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "id": 90,
+    "description": "Microsoft Word by Microsoft Corporation is designed to provide users with an exceptional experience that blends ease of use with powerful functionality. Whether you're connecting, creating, or exploring, the app’s intuitive design ensures that you can achieve what you need without unnecessary complexity. It brings together technology and creativity, helping millions of users accomplish their daily goals in a more enjoyable way.\n\nThe developers behind Microsoft Word have focused on performance, security, and user satisfaction. Every feature is carefully crafted to deliver reliability and speed, ensuring that you stay productive and entertained no matter where you are. With frequent updates, bug fixes, and performance improvements, the app continues to evolve to meet modern needs while staying true to its core mission of delivering excellence.\n\nBeyond its technical capabilities, Microsoft Word fosters a sense of community and engagement among users. Whether through sharing content, collaborating on ideas, or exploring new possibilities, it encourages interaction and creativity. Microsoft Word remains one of the most beloved apps in its category, reflecting the dedication and innovation of Microsoft Corporation to make digital experiences smarter, smoother, and more meaningful.",
+    "size": 150,
+    "reviews": 11000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 1000000
+      },
+      {
+        "name": "4 star",
+        "count": 3500000
+      },
+      {
+        "name": "5 star",
+        "count": 6000000
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/ms-excel.png",
+    "title": "Microsoft Excel",
+    "companyName": "Microsoft Corporation",
+    "id": 91,
+    "description": "Microsoft Excel is used for data analysis and spreadsheets.",
+    "size": 150,
+    "reviews": 8000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4750000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/ms-powerpoint--v1.png",
+    "title": "Microsoft PowerPoint",
+    "companyName": "Microsoft Corporation",
+    "id": 92,
+    "description": "PowerPoint helps create presentations and slides.",
+    "size": 140,
+    "reviews": 7000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 4150000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-docs.png",
+    "title": "Google Docs",
+    "companyName": "Google LLC",
+    "id": 93,
+    "description": "Google Docs allows collaborative document editing online.",
+    "size": 90,
+    "reviews": 6000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 3650000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-sheets.png",
+    "title": "Google Sheets",
+    "companyName": "Google LLC",
+    "id": 94,
+    "description": "Google Sheets is a spreadsheet app with real-time collaboration.",
+    "size": 85,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 2850000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/google-slides.png",
+    "title": "Google Slides",
+    "companyName": "Google LLC",
+    "id": 95,
+    "description": "Google Slides allows creating and sharing presentations online.",
+    "size": 80,
+    "reviews": 4000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2190000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/3d-fluency/256/telegram.png",
+    "title": "Telegram X",
+    "companyName": "Telegram",
+    "id": 96,
+    "description": "Telegram X is a faster and more experimental version of Telegram.",
+    "size": 70,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1660000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/BKash/BKash-Icon2-Logo.wine.svg",
+    "title": "bKash",
+    "companyName": "bKash Limited",
+    "id": 97,
+    "description": "bKash is a mobile financial service in Bangladesh used for payments, transfers, and recharges.",
+    "size": 60,
+    "reviews": 4000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1850000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/paytm.png",
+    "title": "Paytm",
+    "companyName": "One97 Communications",
+    "id": 98,
+    "description": "Paytm is a digital wallet and payment system for online transactions and services.",
+    "size": 85,
+    "reviews": 5000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2200000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/quora.png",
+    "title": "Quora",
+    "companyName": "Quora, Inc.",
+    "id": 99,
+    "description": "Quora is a question-and-answer platform for knowledge sharing.",
+    "size": 100,
+    "reviews": 4000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1750000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/256/000000/medium.png",
+    "title": "Medium",
+    "companyName": "Medium",
+    "id": 100,
+    "description": "Medium is a platform for reading and publishing articles.",
+    "size": 90,
+    "reviews": 2000000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 860000 }
     ]
   }
 ]
