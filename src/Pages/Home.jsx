@@ -28,10 +28,7 @@ const Home = () => {
           ) : (
             <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 ">
               {trendingApps.map((app) => (
-                <div
-                  key={app.id}
-                  className="border border-[#ffffffa5] hover:scale-102 transition bg-white rounded-md p-5"
-                >
+                <div key={app.id} className="">
                   <AppCard app={app} />
                 </div>
               ))}

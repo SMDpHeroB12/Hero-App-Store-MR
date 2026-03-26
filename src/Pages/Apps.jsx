@@ -24,7 +24,7 @@ const Apps = () => {
         </p>
       </div>
 
-      <div className="w-11/12 mx-auto pb-10 flex justify-between items-center">
+      <div className="w-11/12 mx-auto pb-10 flex justify-between flex-col sm:flex-row gap-4 items-center">
         <h1 className="font-bold text-xl">
           ({searchedApps.length}) Apps Found
         </h1>
@@ -69,16 +69,13 @@ const Apps = () => {
           <LoadingSpinner count="30" />
         ) : searchedApps.length === 0 ? (
           <div className="text-2xl font-semibold text-gray-500 py-10 flex flex-col justify-center items-center">
-            <img className="w-60" src={notFoundImg} alt="" />
+            <img className="w-60" src={notFoundImg} alt="Not-Found-Image" />
             <h2>No Apps Found</h2>
           </div>
         ) : (
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {searchedApps.map((app) => (
-              <div
-                key={app.id}
-                className="border border-gray-200 hover:scale-102 transition bg-white rounded-md p-5 shadow-sm hover:shadow-md"
-              >
+              <div key={app.id} className="">
                 <AppCard app={app} />
               </div>
             ))}
